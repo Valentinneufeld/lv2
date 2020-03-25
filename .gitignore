@@ -8,3 +8,4 @@
 *.swp
 cscope.*
 tags
+.kdev4/lv2.kdev4
